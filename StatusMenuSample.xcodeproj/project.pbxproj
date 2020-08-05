@@ -23,6 +23,7 @@
 		5EB5AC9F24DA3809007DD19B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		5EB5ACA124DA3809007DD19B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5EB5ACA224DA3809007DD19B /* StatusMenuSample.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = StatusMenuSample.entitlements; sourceTree = "<group>"; };
+		5EB5ACA824DA3A07007DD19B /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -39,6 +40,7 @@
 		5EB5AC8924DA3808007DD19B = {
 			isa = PBXGroup;
 			children = (
+				5EB5ACA824DA3A07007DD19B /* README.md */,
 				5EB5AC9424DA3808007DD19B /* StatusMenuSample */,
 				5EB5AC9324DA3808007DD19B /* Products */,
 			);
